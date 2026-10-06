@@ -32,17 +32,17 @@
 
 **Transcript:** ENST00000357033.9
 
-**Number of Exons:**
+**Number of Exons:**79
 
 ---
 
 ## **4. UCSC Annotation Tracks**
 
-**Gene Annotation Track:** 
+**Gene Annotation Track:** DMD (dystrophin) gene; transcript NM_004006.3 (Dp427m). The variant c.2521C>T is located within the DMD coding region.
 
-**ClinVar Track:** 
+**ClinVar Track:** NM_004006.3(DMD):c.2521C>T (p.Gln841Ter) — Pathogenic, associated with Duchenne muscular dystrophy. ClinVar Variation ID: 1072122.
 
-**Conservation:** 
+**Conservation:** The variant region is located within a conserved coding region of DMD, supporting the functional importance of the affected sequence.
 
 ---
 
