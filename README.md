@@ -1,8 +1,8 @@
-# **Exploring the DMD Gene Using UCSC Genome Browser and NCBI ClinVar**
+# **Exploring a Human Disease Gene Using UCSC Genome Browser and NCBI ClinVar**
 
 ---
 
-## **1. Assigned Gene and Disease**
+**Student Name:** Nesie D. Calipas
 
 **Assigned Gene:** DMD
 
@@ -12,7 +12,7 @@
 
 ---
 
-## **2. UCSC Gene Location**
+## **1. UCSC Gene Location**
 
 **Genome:** Human
 
@@ -26,7 +26,7 @@
 
 ---
 
-## **3. Exons, Introns, and Transcripts**
+## **2. Exons, Introns, and Transcripts**
 
 **Selected Transcript:** NM_004006.3
 
@@ -36,7 +36,7 @@
 
 ---
 
-## **4. UCSC Annotation Tracks**
+## **3. UCSC Annotation Tracks**
 
 **Gene Annotation Track:** DMD (dystrophin) gene; transcript NM_004006.3 (Dp427m). The variant c.2521C>T is located within the DMD coding region.
 
@@ -46,7 +46,7 @@
 
 ---
 
-## **5. Selected ClinVar Variant**
+## **4. Selected ClinVar Variant**
 
 **Variant:** NM_004006.3(DMD):c.2949+2T>C
 
@@ -58,13 +58,13 @@
 
 ---
 
-## **6. Locating the Variant in UCSC**
+## **5. Locating the Variant in UCSC**
 
 **GRCh38 Position:** chrX:32,472,162
 
 ---
 
-## **7. Interpretation**
+## **6. Interpretation**
 
 The selected variant, NM_004006.3(DMD).2949+2T>C, occurs at a canonical splice-donor site in intron 22 of DMD. ClinVar identifies its molecular consequence as a splice-donor variant.
 Because the variant affects a splice-donor site, it may interfere with normal processing of DMD pre-mRNA. ClinVar submissions describe the variant as potentially producing abnormal RNA splicing and an altered or disrupted dystrophin protein.
@@ -73,7 +73,7 @@ However, genomic location alone is not enough to determine the complete effect o
 
 ---
 
-## **8. Reflection**
+## **7. Reflection**
 
 ### **1. What did UCSC show you about your gene that was not obvious from simply reading about thegene's function?**
 
@@ -93,7 +93,7 @@ One interesting feature of DMD is its very large genomic span on the X chromosom
 
 ---
 
-## **9. References and Links**
+## **8. References and Links**
 
 - UCSC Genome Browser https://genome.ucsc.edu/
 - NCBI ClinVar https://www.ncbi.nlm.nih.gov/clinvar/variation/953819/  https://www.ncbi.nlm.nih.gov/clinvar/RCV006636702.1/
